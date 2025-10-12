@@ -1,5 +1,5 @@
-## ¡Hola! 👋
-### Bienvenido a mi perfil
+<h2 align=center> ¡Hola! 👋 </h1>
+<h3 align=center> ¡Bienvenido a mi perfil! </h3>
 
 - 🔭 Actualemente estoy iniciando en el mundo de la programación...
 - 🌱 Aprendiendo sobre Java, Git & Github, HTML y CSS...
