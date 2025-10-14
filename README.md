@@ -1,8 +1,8 @@
 <h1 align=center> ¡Hola! </h1>
-
+ 
 - Estoy iniciando en el mundo de la programación 🔭
 - Con ayuda de: [Github Education](https://education.github.com) y [Codedex](https://www.codedex.io).
-
+  
 <h2 align=center> Actualmente estoy aprendiendo: </h2>
 
 <div align="center">
