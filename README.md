@@ -1,6 +1,15 @@
-<h2 align=center> ¡Hola! 👋 </h1>
-<h3 align=center> ¡Bienvenido a mi perfil! </h3>
+<h1 align=center> ¡Hola! </h1>
 
-- 🔭 Actualemente estoy iniciando en el mundo de la programación...
-- 🌱 Aprendiendo sobre Java, Git & Github, HTML y CSS...
+- Estoy iniciando en el mundo de la programación 🔭
 - Con ayuda de: [Github Education](https://education.github.com) y [Codedex](https://www.codedex.io).
+
+<h2 align=center> Actualmente estoy aprendiendo: </h2>
+
+<div align="center">
+  <img src="https://github.com/pheralb/svgl/blob/main/static/library/html5.svg" height="40" alt="HTML logo"  />
+  <img width="12" />
+  <img src="https://github.com/pheralb/svgl/blob/main/static/library/css.svg" height="40" alt="CSS logo"  />
+  <img width="12" />
+  <img src="https://github.com/pheralb/svgl/blob/main/static/library/javascript.svg" height="40" alt="JavaScipt"  />
+  <img width="12" />
+</div>
