@@ -6,10 +6,13 @@
 <h2 align=center> Actualmente estoy aprendiendo: </h2>
 
 <div align="center">
-  <img src="https://github.com/pheralb/svgl/blob/main/static/library/html5.svg" height="40" alt="HTML logo"  />
-  <img width="12" />
-  <img src="https://github.com/pheralb/svgl/blob/main/static/library/css.svg" height="40" alt="CSS logo"  />
-  <img width="12" />
-  <img src="https://github.com/pheralb/svgl/blob/main/static/library/javascript.svg" height="40" alt="JavaScipt"  />
-  <img width="12" />
+  <a href="https://www.w3.org/html/">
+   <img src="https://github.com/pheralb/svgl/blob/main/static/library/html5.svg" height="40" alt="HTML logo" /> <img width="12"/>
+  </a>
+  <a href="https://www.w3.org/Style/CSS/">
+   <img src="https://github.com/pheralb/svgl/blob/main/static/library/css.svg" height="40" alt="CSS logo"  /> <img width="12" />
+  </a>
+  <a href="https://es.wikipedia.org/wiki/JavaScript">
+   <img src="https://github.com/pheralb/svgl/blob/main/static/library/javascript.svg" height="40" alt="JavaScipt"  /> <img width="12" />
+  </a>
 </div>
