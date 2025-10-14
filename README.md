@@ -7,12 +7,12 @@
 
 <div align="center">
   <a href="https://www.w3.org/html/" target="blank">
-   <img src="https://github.com/pheralb/svgl/blob/main/static/library/html5.svg" height="40" alt="HTML logo" /> <img width="12"/>
+   <img src="https://github.com/pheralb/svgl/blob/main/static/library/html5.svg" height="50" alt="HTML logo" /> <img width="12"/>
   </a>
   <a href="https://www.w3.org/Style/CSS/" target="blank">
-   <img src="https://github.com/pheralb/svgl/blob/main/static/library/css.svg" height="40" alt="CSS logo"  /> <img width="12" />
+   <img src="https://github.com/pheralb/svgl/blob/main/static/library/css.svg" height="50" alt="CSS logo"  /> <img width="12" />
   </a>
   <a href="https://es.wikipedia.org/wiki/JavaScript" target="blank">
-   <img src="https://github.com/pheralb/svgl/blob/main/static/library/javascript.svg" height="40" alt="JavaScipt"  /> <img width="12" />
+   <img src="https://github.com/pheralb/svgl/blob/main/static/library/javascript.svg" height="50" alt="JavaScipt logo"  /> <img width="12" />
   </a>
 </div>
