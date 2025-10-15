@@ -1,8 +1,9 @@
-<h1 align=center> ¡Hola! </h1>
- 
-- Estoy iniciando en el mundo de la programación 🔭
-- Con ayuda de: [Github Education](https://education.github.com) y [Codedex](https://www.codedex.io).
-  
+<h1 align="center"> ¡Hola! </h1>
+<pre align="center">
+  🚀 Estoy iniciando en el mundo de la programación
+  🛟 Con ayuda de: <a href=https://education.github.com>Github Education</a> y <a href=https://www.codedex.io>Codédex</a>. 
+</pre>
+
 <h2 align=center> Actualmente estoy aprendiendo: </h2>
 
 <div align="center">
